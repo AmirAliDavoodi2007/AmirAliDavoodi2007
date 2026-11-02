@@ -1,7 +1,10 @@
-Hi, I'm AmirAliDavoodi
-Front-End Developer | React.js & Next.js
-I build modern, responsive, and user-friendly web applications.
-About Me
+<h1 align="center">Hi, I'm AmirAliDavoodi</h1><h3 align="center">Front-End Developer | React.js & Next.js</h3><p align="center">
+  I build modern, responsive, and user-friendly web applications.
+</p><p align="center">
+  <a href="https://github.com/AmirAliDavoodi2007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>About Me
 I'm a Front-End Developer with 3 years of experience in web development, passionate about building modern web applications and creating seamless user experiences.
 
 I specialize in React.js and Next.js, focusing on clean code, reusable components, performance, and responsive design.
@@ -12,19 +15,19 @@ I'm always exploring new technologies, improving my skills, and building practic
 Tech Stack
 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 </p>
 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React.js, Next.js" />
 </p>
 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
 </p>
 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>What I Do
 - Building responsive web applications
 - Developing modern interfaces with React.js
@@ -34,11 +37,11 @@ Tools
 - Working with frontend and backend technologies
 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAliDavoodi2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliDavoodi2007&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAliDavoodi2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliDavoodi2007&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
 </p>Connect With Me
 <p align="left">
   <a href="https://github.com/AmirAliDavoodi2007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
